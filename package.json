@@ -10,7 +10,7 @@
     "config": "^3.2.2",
     "express": "^4.17.1",
     "mocha": "^6.2.0",
-    "mongoose": "^5.7.1",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "request": "^2.88.0",
     "should": "^13.2.3",
